@@ -1,0 +1,11 @@
+{
+  "name": "functions-test",
+  "repository": "git@github.com:nhost/functions-test.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
