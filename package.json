@@ -6,6 +6,6 @@
     "@types/express": "^4.17.13"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "slugify": "^1.6.0"
   }
 }
